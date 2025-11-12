@@ -1,4 +1,4 @@
-// first and last position of an element in sorted array
+//Find the total number of occurance of 3
 
 //TIME COMPLEXITY --> O(log n) time
 //SPACE COMPLEXITY--> O(1) space
