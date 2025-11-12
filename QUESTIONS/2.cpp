@@ -1,5 +1,8 @@
 // first and last position of an element in sorted array
 
+//TIME COMPLEXITY --> O(log n) time
+//SPACE COMPLEXITY--> O(1) space
+
 #include <iostream>
 using namespace std;
 
